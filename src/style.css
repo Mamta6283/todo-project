@@ -1,0 +1,7 @@
+.text-white-custom {
+    color: white !important;
+  }
+  
+  .text-white-custom:hover {
+    color: #78dc0d !important; /* Change to your desired hover color */
+  }

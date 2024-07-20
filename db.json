@@ -1,0 +1,244 @@
+{
+  "users": [
+    {
+      "name": "sohit kumar",
+      "email": "sohit@gmail.com",
+      "password": "sohit",
+      "id": 1
+    },
+    {
+      "name": "mamta rani",
+      "email": "mamtarani172001@gmail.com",
+      "password": "mamta",
+      "id": 2
+    },
+    {
+      "name": "anter kaur",
+      "email": "anter@gmail.com",
+      "password": "anter",
+      "id": 3
+    },
+    {
+      "name": "raman",
+      "email": "raman@gmail.com",
+      "password": "raman",
+      "id": 4
+    },
+    {
+      "name": "rohit",
+      "email": "rohit@gmail.com",
+      "password": "rohit",
+      "id": 5
+    },
+    {
+      "name": "anshu",
+      "email": "anshu@gmail.com",
+      "password": "anshu",
+      "id": 6
+    },
+    {
+      "name": "sohit kumar",
+      "email": "sohit@gmail.com",
+      "password": "sohit",
+      "id": 7
+    },
+    {
+      "name": "sohit kumar",
+      "email": "sohit@gmail.com",
+      "password": "sohit",
+      "id": 8
+    },
+    {
+      "name": "sohit kumar",
+      "email": "sohit@gmail.com",
+      "password": "sohit",
+      "id": 9
+    },
+    {
+      "name": "sohit kumar",
+      "email": "sohit@gmail.com",
+      "password": "sohit",
+      "id": 10
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Task no 1",
+      "description": "this is first new task",
+      "duedate": "2024-07-01T22:03",
+      "Userid": 2,
+      "modifiedon": "Mon Jul 15 2024 10:58:34 GMT+0530 (India Standard Time)",
+      "id": 1
+    },
+    {
+      "title": "Task no 2",
+      "description": "This is Second new task",
+      "duedate": "2024-07-02T22:03",
+      "Userid": 2,
+      "modifiedon": "Mon Jul 15 2024 10:55:42 GMT+0530 (India Standard Time)",
+      "id": 2
+    },
+    {
+      "title": "Task no 3",
+      "description": "This is third new task",
+      "duedate": "2024-07-03T22:04",
+      "Userid": 2,
+      "modifiedon": "Sun Jul 14 2024 22:04:36 GMT+0530 (India Standard Time)",
+      "id": 3
+    },
+    {
+      "title": "Task no 4",
+      "description": "This is fourth new task",
+      "duedate": "2024-07-04T22:05",
+      "Userid": 2,
+      "modifiedon": "Sun Jul 14 2024 22:05:23 GMT+0530 (India Standard Time)",
+      "id": 4
+    }
+  ],
+  "edit": [
+    {
+      "name": "mamta rani",
+      "age": "21",
+      "birthdate": "2024-07-29",
+      "city": "samrale",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "mamta rani",
+      "age": "21",
+      "birthdate": "2024-07-29",
+      "city": "samrale",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "name": "Mamta Rani",
+      "age": "21",
+      "birthdate": "2024-07-29",
+      "city": "samrale",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "mamta rani",
+      "age": "23",
+      "birthdate": "2024-07-03",
+      "city": "pakhowal",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "mamta rani",
+      "age": "23",
+      "birthdate": "2024-07-03",
+      "city": "pakhowal",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "name": "Mamta Rani",
+      "age": "23",
+      "birthdate": "2024-07-03",
+      "city": "pakhowal",
+      "userId": 2,
+      "id": 6
+    },
+    {
+      "name": "sohit kumar",
+      "age": "23",
+      "birthdate": "2024-07-09",
+      "city": "pakhowal",
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "name": "sohit kumar",
+      "age": "23",
+      "birthdate": "2024-07-09",
+      "city": "pakhowal",
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "name": "sohit kkkumar",
+      "age": "23",
+      "birthdate": "2024-07-09",
+      "city": "pakhowal",
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "name": "Mamta Rani",
+      "age": "21",
+      "birthdate": "2024-07-16",
+      "city": "samrale",
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "name": "Mamta Rani",
+      "age": "21",
+      "birthdate": "2024-07-16",
+      "city": "samrale",
+      "userId": 2,
+      "id": 11
+    },
+    {
+      "name": "mamta rani",
+      "age": "23",
+      "birthdate": "2024-07-16",
+      "city": "samrale",
+      "userId": 2,
+      "id": 12
+    },
+    {
+      "name": "mamta rani",
+      "age": "23",
+      "birthdate": "2024-07-16",
+      "city": "samrale",
+      "userId": 2,
+      "id": 13
+    },
+    {
+      "name": "mamta rani",
+      "age": "21",
+      "birthdate": "2024-07-12",
+      "city": "samrale",
+      "userId": 2,
+      "id": 14
+    },
+    {
+      "name": "mamta rani",
+      "age": "21",
+      "birthdate": "2024-07-12",
+      "city": "samrale",
+      "userId": 2,
+      "id": 15
+    },
+    {
+      "name": "Mamta Rani",
+      "age": "21",
+      "birthdate": "2024-07-04",
+      "city": "samrale",
+      "userId": 2,
+      "id": 16
+    },
+    {
+      "name": "Mamta Rani",
+      "age": "21",
+      "birthdate": "2024-07-04",
+      "city": "samrale",
+      "userId": 2,
+      "id": 17
+    },
+    {
+      "name": "Mamta Rani jkj",
+      "age": "21",
+      "birthdate": "2024-07-04",
+      "city": "samrale",
+      "userId": 2,
+      "id": 18
+    }
+  ]
+}
